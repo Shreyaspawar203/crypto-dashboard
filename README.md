@@ -28,7 +28,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/yourusername/crypto-dashboard.git
+git clone https://github.com/Shreyaspawar203/crypto-dashboard.git
 Install dependencies:
 
 Bash
